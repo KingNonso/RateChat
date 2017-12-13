@@ -1,0 +1,1 @@
+<?php Redirect::to(URL.'login'); ?>
